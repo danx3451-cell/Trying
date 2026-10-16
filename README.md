@@ -1,0 +1,2 @@
+<script> print="hello"
+</script>
